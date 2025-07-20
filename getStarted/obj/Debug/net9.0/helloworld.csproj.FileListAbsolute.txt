@@ -1,0 +1,14 @@
+/Users/huynhvanthien/dNetLearning/learning/helloworld/bin/Debug/net9.0/helloworld
+/Users/huynhvanthien/dNetLearning/learning/helloworld/bin/Debug/net9.0/helloworld.deps.json
+/Users/huynhvanthien/dNetLearning/learning/helloworld/bin/Debug/net9.0/helloworld.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/helloworld/bin/Debug/net9.0/helloworld.dll
+/Users/huynhvanthien/dNetLearning/learning/helloworld/bin/Debug/net9.0/helloworld.pdb
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.dll
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/refint/helloworld.dll
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.pdb
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/helloworld/obj/Debug/net9.0/ref/helloworld.dll

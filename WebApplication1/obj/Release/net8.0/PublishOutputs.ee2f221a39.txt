@@ -1,0 +1,7 @@
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/WebApplication1
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/appsettings.Development.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/appsettings.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/WebApplication1.dll
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/WebApplication1.deps.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/WebApplication1.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fd/WebApplication1.pdb

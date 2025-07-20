@@ -1,0 +1,7 @@
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/appsettings.Development.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/appsettings.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/publish-fdd/appsettings.Development.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/publish-fdd/appsettings.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/publish-fdd/WebApplication1.staticwebassets.endpoints.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/WebApplication1.pdb
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-scd/WebApplication1

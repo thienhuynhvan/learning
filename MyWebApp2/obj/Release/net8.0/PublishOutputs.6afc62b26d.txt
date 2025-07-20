@@ -1,0 +1,7 @@
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/MyWebApp2
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/appsettings.json
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/MyWebApp2.dll
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/MyWebApp2.deps.json
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/MyWebApp2.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/MyWebApp2/bin/Release/net8.0/publish/MyWebApp2.pdb

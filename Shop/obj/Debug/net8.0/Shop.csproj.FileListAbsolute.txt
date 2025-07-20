@@ -1,0 +1,14 @@
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/Shop/bin/Debug/net8.0/Shop
+/Users/huynhvanthien/dNetLearning/learning/Shop/bin/Debug/net8.0/Shop.deps.json
+/Users/huynhvanthien/dNetLearning/learning/Shop/bin/Debug/net8.0/Shop.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/Shop/bin/Debug/net8.0/Shop.dll
+/Users/huynhvanthien/dNetLearning/learning/Shop/bin/Debug/net8.0/Shop.pdb
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.dll
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/refint/Shop.dll
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.pdb
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/Shop.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/Shop/obj/Debug/net8.0/ref/Shop.dll

@@ -1,0 +1,4 @@
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fdd/appsettings.Development.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fdd/appsettings.json
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fdd/WebApplication1.pdb
+/Users/huynhvanthien/dNetLearning/learning/WebApplication1/publish-fdd/WebApplication1

@@ -1,0 +1,14 @@
+/Users/huynhvanthien/dNetLearning/learning/MD4/bin/Debug/net8.0/MD4
+/Users/huynhvanthien/dNetLearning/learning/MD4/bin/Debug/net8.0/MD4.deps.json
+/Users/huynhvanthien/dNetLearning/learning/MD4/bin/Debug/net8.0/MD4.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/MD4/bin/Debug/net8.0/MD4.dll
+/Users/huynhvanthien/dNetLearning/learning/MD4/bin/Debug/net8.0/MD4.pdb
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.dll
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/refint/MD4.dll
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.pdb
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/MD4.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/MD4/obj/Debug/net8.0/ref/MD4.dll

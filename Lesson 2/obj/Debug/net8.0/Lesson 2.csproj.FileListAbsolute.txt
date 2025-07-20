@@ -1,0 +1,14 @@
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/bin/Debug/net8.0/Lesson 2
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/bin/Debug/net8.0/Lesson 2.deps.json
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/bin/Debug/net8.0/Lesson 2.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/bin/Debug/net8.0/Lesson 2.dll
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/bin/Debug/net8.0/Lesson 2.pdb
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.dll
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/refint/Lesson 2.dll
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.pdb
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/Lesson 2.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/Lesson 2/obj/Debug/net8.0/ref/Lesson 2.dll
