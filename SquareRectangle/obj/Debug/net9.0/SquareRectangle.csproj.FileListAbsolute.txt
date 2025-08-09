@@ -12,3 +12,4 @@
 /Users/huynhvanthien/dNetLearning/learning/SquareRectangle/obj/Debug/net9.0/SquareRectangle.pdb
 /Users/huynhvanthien/dNetLearning/learning/SquareRectangle/obj/Debug/net9.0/SquareRectangle.genruntimeconfig.cache
 /Users/huynhvanthien/dNetLearning/learning/SquareRectangle/obj/Debug/net9.0/ref/SquareRectangle.dll
+/Users/huynhvanthien/dNetLearning/learning/SquareRectangle/obj/Debug/net9.0/SquareRectangle.sourcelink.json
