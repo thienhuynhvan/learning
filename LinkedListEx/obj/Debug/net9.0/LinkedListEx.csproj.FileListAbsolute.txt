@@ -1,0 +1,15 @@
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/bin/Debug/net9.0/LinkedListEx
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/bin/Debug/net9.0/LinkedListEx.deps.json
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/bin/Debug/net9.0/LinkedListEx.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/bin/Debug/net9.0/LinkedListEx.dll
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/bin/Debug/net9.0/LinkedListEx.pdb
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.sourcelink.json
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.dll
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/refint/LinkedListEx.dll
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.pdb
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/LinkedListEx.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/LinkedListEx/obj/Debug/net9.0/ref/LinkedListEx.dll

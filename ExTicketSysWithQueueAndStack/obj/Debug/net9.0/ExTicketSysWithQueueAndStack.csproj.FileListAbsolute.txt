@@ -1,0 +1,15 @@
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/bin/Debug/net9.0/ExTicketSysWithQueueAndStack
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/bin/Debug/net9.0/ExTicketSysWithQueueAndStack.deps.json
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/bin/Debug/net9.0/ExTicketSysWithQueueAndStack.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/bin/Debug/net9.0/ExTicketSysWithQueueAndStack.dll
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/bin/Debug/net9.0/ExTicketSysWithQueueAndStack.pdb
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.sourcelink.json
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.dll
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/refint/ExTicketSysWithQueueAndStack.dll
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.pdb
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ExTicketSysWithQueueAndStack.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/ExTicketSysWithQueueAndStack/obj/Debug/net9.0/ref/ExTicketSysWithQueueAndStack.dll

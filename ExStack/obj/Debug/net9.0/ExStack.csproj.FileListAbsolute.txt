@@ -1,0 +1,15 @@
+/Users/huynhvanthien/dNetLearning/learning/ExStack/bin/Debug/net9.0/ExStack
+/Users/huynhvanthien/dNetLearning/learning/ExStack/bin/Debug/net9.0/ExStack.deps.json
+/Users/huynhvanthien/dNetLearning/learning/ExStack/bin/Debug/net9.0/ExStack.runtimeconfig.json
+/Users/huynhvanthien/dNetLearning/learning/ExStack/bin/Debug/net9.0/ExStack.dll
+/Users/huynhvanthien/dNetLearning/learning/ExStack/bin/Debug/net9.0/ExStack.pdb
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.AssemblyInfoInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.AssemblyInfo.cs
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.csproj.CoreCompileInputs.cache
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.sourcelink.json
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.dll
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/refint/ExStack.dll
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.pdb
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ExStack.genruntimeconfig.cache
+/Users/huynhvanthien/dNetLearning/learning/ExStack/obj/Debug/net9.0/ref/ExStack.dll

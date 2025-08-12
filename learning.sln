@@ -28,6 +28,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExQueue", "ExQueue\ExQueue.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExTicketSysWithQueueAndStack", "ExTicketSysWithQueueAndStack\ExTicketSysWithQueueAndStack.csproj", "{D0B45331-EADD-479B-AC59-092E2975372F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExSort", "ExSort\ExSort.csproj", "{BC0845AD-DAD1-403C-97C1-7D358C167AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExSearch", "ExSearch\ExSearch.csproj", "{38B66872-8DCC-4B5A-ACE5-9AB7DE7FB920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExFile", "ExFile\ExFile.csproj", "{95FD4838-771C-4A36-AFE3-7BED6923DBCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +96,17 @@ Global
 		{D0B45331-EADD-479B-AC59-092E2975372F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B45331-EADD-479B-AC59-092E2975372F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0B45331-EADD-479B-AC59-092E2975372F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0845AD-DAD1-403C-97C1-7D358C167AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0845AD-DAD1-403C-97C1-7D358C167AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0845AD-DAD1-403C-97C1-7D358C167AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0845AD-DAD1-403C-97C1-7D358C167AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B66872-8DCC-4B5A-ACE5-9AB7DE7FB920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B66872-8DCC-4B5A-ACE5-9AB7DE7FB920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B66872-8DCC-4B5A-ACE5-9AB7DE7FB920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B66872-8DCC-4B5A-ACE5-9AB7DE7FB920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FD4838-771C-4A36-AFE3-7BED6923DBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FD4838-771C-4A36-AFE3-7BED6923DBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FD4838-771C-4A36-AFE3-7BED6923DBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FD4838-771C-4A36-AFE3-7BED6923DBCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
